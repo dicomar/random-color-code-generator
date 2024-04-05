@@ -1,7 +1,7 @@
 const btn = document.getElementById("btnGenerateCode");
 const hexCode = document.getElementById("hexCode");
 const rgbCode = document.getElementById("rgbCode");
-const colorDisplay = document.getElementById('colorDisplay')
+const colorDisplay = document.getElementById("colorDisplay")
 
 let r, g, b, rgbColor, rHex, gHex, bHex, hex, hexColor;
 
